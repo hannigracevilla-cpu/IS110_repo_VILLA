@@ -1,0 +1,13 @@
+<<<<<<< HEAD
+
+---
+
+# **requirements.txt**
+
+Save this as **`requirements.txt`** in your main project folder:
+=======
+numpy==2.4.2
+pandas==3.0.1
+python-dateutil==2.9.0.post0
+six==1.17.0
+>>>>>>> 5e43a68f0cca6e09aa52d2cdbd8ce7f1e18cc62f
